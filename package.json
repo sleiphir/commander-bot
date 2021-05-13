@@ -1,0 +1,23 @@
+{
+  "name": "discord-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/eslint": "^7.2.10",
+    "@types/node": "^14.14.41",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "axios": "^0.21.1",
+    "cheerio": "*",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "ts-node": "^9.1.1",
+    "ts-node-dev": "^1.1.6"
+  }
+}
